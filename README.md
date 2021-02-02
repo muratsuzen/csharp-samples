@@ -1,2 +1,2 @@
-# csharp-samples
-C# versiyonlarındaki yenilikleri inceledeğim örnekler
+# C# Versiyon Örnekleri
+C# versiyonlarındaki yenilikleri inceledeğim örnekler bulunmakadır.
